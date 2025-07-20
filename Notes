@@ -1,0 +1,20 @@
+#$_GET --> Data is appended to the url
+           NOT Secure
+           char limit
+           bookmark is possible
+           it can be cached
+           better for a search page
+
+#$_POST --> Data is packaged inside the body of the html page
+            It is Secure
+            no data limit
+            cannot bookmark
+            requests are not cached
+            better for form 
+
+ #Logical Operators:
+          --> &&
+          --> ||
+          --> !
+
+//Cookie --> Information about a user stored in a user's web-browser targeted advertisements, browsing preferences, & other sensitive data
